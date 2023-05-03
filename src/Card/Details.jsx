@@ -3,7 +3,7 @@ import { useLocation, useParams } from 'react-router-dom'
 import axios from 'axios';
 import {AiFillYoutube} from 'react-icons/ai'
 import { Link } from 'react-router-dom';
-import Loader from './Loader';
+import Loader from '../Loader';
 
 const Details = () => {
   
